@@ -1,3 +1,8 @@
+# PointVisor – Point-Supervised Semantic Segmentation on DLRSD
+
+Goal: Train a segmentation model using **only sparse point annotations** (simulated dots) + partial CE loss.
+Dataset: DLRSD (2,100 small 256×256 images, 17 classes).
+
 ## Set up your coding playground (tools)
 
 Use Python + Jupyter Notebook (easiest for experiments)
