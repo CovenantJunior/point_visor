@@ -2,6 +2,24 @@
 
 Use Python + Jupyter Notebook (easiest for experiments)
 
+Ensure Python is install.
+
+### Install Jupyter:
+
+```bash
+pip install notebook
+# or to install the newer JupyterLab interface:
+pip install jupyterlab
+```
+
+### Launch Jupyter:
+
+```bash
+jupyter notebook
+# or
+jupyter lab
+```
+
 ### Install these (run in terminal / command prompt):
 
 ```bash
