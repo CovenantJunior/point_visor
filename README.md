@@ -124,8 +124,9 @@ pip install segmentation-models-pytorch
 pip install opencv-python scikit-image pillow
 
 # Data & Progress Tracking
-pip install pandas matplotlib tqdm
 
+```
+pip install pandas matplotlib tqdm
 ```
 
 ### 2\. Dataset Architecture
